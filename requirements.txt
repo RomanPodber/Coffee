@@ -1,0 +1,5 @@
+Used libraries:
+PyQt5
+PyQt5.QtWidget
+sys
+sqlite3
